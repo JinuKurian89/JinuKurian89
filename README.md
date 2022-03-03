@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JinuKurian89
+- 👀 I’m interested in Mobile Development and I am an experienced iOS developer.
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to collaborate on iOS development projects
+- 📫 You may reach me at jinukurian24@gmail.com/ https://www.linkedin.com/in/jinu-kurian/
